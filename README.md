@@ -1,4 +1,4 @@
-Your team at amazon has been contracted by a telecommunications company that is trying to upgrade junction boxes all over Techlandia. Some of the junction boxes have already been upgraded , and other boxes have not. Your task is to identify the oldest boxes that need to be upgraded first but leaving newer model boxes so that they will not be prioritized.
+Your team at Amazon has been contracted by a telecommunications company that is trying to upgrade junction boxes all over Techlandia. Some of the junction boxes have already been upgraded , and other boxes have not. Your task is to identify the oldest boxes that need to be upgraded first but leaving newer model boxes so that they will not be prioritized.
 
 All junction boxes are identified by an alphanumeric identifier , followed by space delimited version information. The older generation uses space delimited lowercase English Strings to identify the version, but the newer generation uses space delimited positive integers to identify the version. Your task is to sort the junction boxes in the following order:
 
